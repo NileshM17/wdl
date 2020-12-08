@@ -1,0 +1,67 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "book.xsl"?> 
+<LIBRARY>
+<BOOK>
+    <TITLE>Harry Potter and the Deathly Hallows</TITLE>
+    <AUTHOR>J.K. Rowling</AUTHOR>
+    <PAGES>202</PAGES>
+    <YEAR>1998</YEAR>
+    <GENRE>Informative</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>To Kill a Mockingbird</TITLE>
+    <AUTHOR>Harper Lee</AUTHOR>
+    <PAGES>250</PAGES>
+    <YEAR>2005</YEAR>
+    <GENRE>Finance</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>The Hobbit, or There and Back Again</TITLE>
+    <AUTHOR>J.R.R. Tolkien</AUTHOR>
+    <PAGES>400</PAGES>
+    <YEAR>2006</YEAR>
+    <GENRE>Fiction</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>Animal Farm</TITLE>
+    <AUTHOR>George Orwell</AUTHOR>
+    <PAGES>250</PAGES>
+    <YEAR>2014</YEAR>
+    <GENRE>Motivational</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>Obama-The Call of History</TITLE>
+    <AUTHOR>Peter Baker</AUTHOR>
+    <PAGES>280</PAGES>
+    <YEAR>2015</YEAR>
+    <GENRE>Inspirational</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>The Girl from the Well</TITLE>
+    <AUTHOR>Rin Chupeco</AUTHOR>
+    <PAGES>250</PAGES>
+    <YEAR>2009</YEAR>
+    <GENRE>Motivational</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>Servants of the Storm</TITLE>
+    <AUTHOR>Delilah S. Dawson</AUTHOR>
+    <PAGES>250</PAGES>
+    <YEAR>2014</YEAR>
+    <GENRE>Motivational</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>Breaking Dawn (Twilight, #4)</TITLE>
+    <AUTHOR>Stephenie Meyer</AUTHOR>
+    <PAGES>250</PAGES>
+    <YEAR>2008</YEAR>
+    <GENRE>Middle Grade</GENRE>
+</BOOK>
+<BOOK>
+    <TITLE>Fat Boy vs. the Cheerleaders</TITLE>
+    <AUTHOR>Geoff Herbach</AUTHOR>
+    <PAGES>250</PAGES>
+    <YEAR>2013</YEAR>
+    <GENRE>Middle Grade</GENRE>
+</BOOK>
+</LIBRARY>
